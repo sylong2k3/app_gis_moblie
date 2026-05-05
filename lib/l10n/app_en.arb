@@ -1,0 +1,206 @@
+{
+  "@@locale": "en",
+  "appTitle": "Aqua Farm",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+
+  "login": "Login",
+  "@login": {
+    "description": "Login button and screen title"
+  },
+  "loginSubtitle": "Enter your email and password to log in",
+  "@loginSubtitle": {
+    "description": "Subtitle text on login screen"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email input field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password input field label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password input field label"
+  },
+  "rememberMe": "Remember me",
+  "@rememberMe": {
+    "description": "Remember me checkbox label"
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  "logIn": "Log In",
+  "@logIn": {
+    "description": "Log in button text"
+  },
+  "orLoginWith": "Or login with",
+  "@orLoginWith": {
+    "description": "Social login separator text"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button and screen title"
+  },
+  "signUpSubtitle": "Create your account to get started",
+  "@signUpSubtitle": {
+    "description": "Subtitle text on sign up screen"
+  },
+  "signUpTerms": "By signing up, you agree to our Terms of Service and Privacy Policy",
+  "@signUpTerms": {
+    "description": "Terms and privacy policy agreement text"
+  },
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Text prompting user to sign in instead"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+
+  "forgotPasswordTitle": "Forgot Password",
+  "@forgotPasswordTitle": {
+    "description": "Forgot password screen title"
+  },
+  "forgotPasswordSubtitle": "Enter your email and we will send you a reset link",
+  "@forgotPasswordSubtitle": {
+    "description": "Subtitle text on forgot password screen"
+  },
+  "sendResetLink": "Send Reset Link",
+  "@sendResetLink": {
+    "description": "Send reset link button text"
+  },
+  "backToLogin": "Back to Login",
+  "@backToLogin": {
+    "description": "Back to login link text"
+  },
+
+  "resetPasswordTitle": "Reset Password",
+  "@resetPasswordTitle": {
+    "description": "Reset password screen title"
+  },
+  "resetPasswordSubtitle": "Enter the code sent to {email} and your new password",
+  "@resetPasswordSubtitle": {
+    "description": "Subtitle text on reset password screen",
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmationCode": "Confirmation Code",
+  "@confirmationCode": {
+    "description": "Confirmation code input field label"
+  },
+  "newPassword": "New Password",
+  "@newPassword": {
+    "description": "New password input field label"
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset password button text"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "Back button text"
+  },
+
+  "verifyEmailTitle": "Verify Email",
+  "@verifyEmailTitle": {
+    "description": "Verify email screen title"
+  },
+  "verifyEmailSubtitle": "Enter the code sent to {email}",
+  "@verifyEmailSubtitle": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "verify": "Verify",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "didntReceiveCode": "Didn't receive the code? ",
+  "@didntReceiveCode": {
+    "description": "Text prompting to resend code"
+  },
+  "resend": "Resend",
+  "@resend": {
+    "description": "Resend code link text"
+  },
+  "codeSentAgain": "Code sent again",
+  "@codeSentAgain": {
+    "description": "Success message when code is resent"
+  },
+
+  "chooseLanguage": "Choose language",
+  "@chooseLanguage": {
+    "description": "Choose language dialog title"
+  },
+  "vietnamese": "Tiếng Việt",
+  "@vietnamese": {
+    "description": "Vietnamese language option"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+
+  "emailRequired": "Email is required",
+  "@emailRequired": {
+    "description": "Validation error when email is empty"
+  },
+  "invalidEmail": "Please enter a valid email",
+  "@invalidEmail": {
+    "description": "Validation error for invalid email format"
+  },
+  "passwordRequired": "Password is required",
+  "@passwordRequired": {
+    "description": "Validation error when password is empty"
+  },
+  "passwordTooShort": "Password must be at least 8 characters",
+  "@passwordTooShort": {
+    "description": "Validation error for password length"
+  },
+  "passwordUppercase": "Password must contain at least 1 uppercase letter",
+  "@passwordUppercase": {
+    "description": "Validation error for password uppercase requirement"
+  },
+  "passwordLowercase": "Password must contain at least 1 lowercase letter",
+  "@passwordLowercase": {
+    "description": "Validation error for password lowercase requirement"
+  },
+  "passwordNumber": "Password must contain at least 1 number",
+  "@passwordNumber": {
+    "description": "Validation error for password number requirement"
+  },
+  "confirmPasswordRequired": "Please confirm your password",
+  "@confirmPasswordRequired": {
+    "description": "Validation error when confirm password is empty"
+  },
+  "passwordsDoNotMatch": "Passwords do not match",
+  "@passwordsDoNotMatch": {
+    "description": "Validation error when passwords don't match"
+  },
+  "codeRequired": "Code is required",
+  "@codeRequired": {
+    "description": "Validation error when verification code is empty"
+  },
+  "codeMustBe6Digits": "Code must be 6 digits",
+  "@codeMustBe6Digits": {
+    "description": "Validation error for code length"
+  },
+  "passwordResetSuccess": "Password reset successfully",
+  "@passwordResetSuccess": {
+    "description": "Success message after password reset"
+  },
+  "emailVerifiedSuccessfully": "Email verified successfully!",
+  "@emailVerifiedSuccessfully": {
+    "description": "Success message after email verification"
+  }
+}

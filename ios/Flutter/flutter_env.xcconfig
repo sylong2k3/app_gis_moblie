@@ -1,0 +1,4 @@
+# Mapbox Configuration
+# Copy MAPBOX_TOKEN from .env to build variables
+MAPBOX_ACCESS_TOKEN=${MAPBOX_TOKEN}
+MAPBOX_DOWNLOADS_TOKEN=${MAPBOX_TOKEN}

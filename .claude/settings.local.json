@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(dart|ts|tsx|js\\)$\")",
+      "Bash(xargs grep *)"
+    ]
+  }
+}

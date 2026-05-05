@@ -1,0 +1,206 @@
+{
+  "@@locale": "vi",
+  "appTitle": "Aqua Farm",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login": "Đăng nhập",
+  "@login": {
+    "description": "Login button and screen title"
+  },
+  "loginSubtitle": "Nhập email và mật khẩu để đăng nhập",
+  "@loginSubtitle": {
+    "description": "Subtitle text on login screen"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email input field label"
+  },
+  "password": "Mật khẩu",
+  "@password": {
+    "description": "Password input field label"
+  },
+  "confirmPassword": "Xác nhận mật khẩu",
+  "@confirmPassword": {
+    "description": "Confirm password input field label"
+  },
+  "rememberMe": "Nhớ đăng nhập",
+  "@rememberMe": {
+    "description": "Remember me checkbox label"
+  },
+  "forgotPassword": "Quên mật khẩu?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  "logIn": "Đăng nhập",
+  "@logIn": {
+    "description": "Log in button text"
+  },
+  "orLoginWith": "Hoặc đăng nhập bằng",
+  "@orLoginWith": {
+    "description": "Social login separator text"
+  },
+  "signUp": "Đăng ký",
+  "@signUp": {
+    "description": "Sign up button and screen title"
+  },
+  "signUpSubtitle": "Tạo tài khoản của bạn để bắt đầu",
+  "@signUpSubtitle": {
+    "description": "Subtitle text on sign up screen"
+  },
+  "signUpTerms": "Bằng việc đăng ký, bạn đồng ý với Điều khoản dịch vụ và Chính sách bảo mật của chúng tôi",
+  "@signUpTerms": {
+    "description": "Terms and privacy policy agreement text"
+  },
+  "alreadyHaveAccount": "Đã có tài khoản?",
+  "@alreadyHaveAccount": {
+    "description": "Text prompting user to sign in instead"
+  },
+  "signIn": "Đăng nhập",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+
+  "forgotPasswordTitle": "Quên mật khẩu",
+  "@forgotPasswordTitle": {
+    "description": "Forgot password screen title"
+  },
+  "forgotPasswordSubtitle": "Nhập email của bạn và chúng tôi sẽ gửi liên kết đặt lại mật khẩu",
+  "@forgotPasswordSubtitle": {
+    "description": "Subtitle text on forgot password screen"
+  },
+  "sendResetLink": "Gửi liên kết đặt lại",
+  "@sendResetLink": {
+    "description": "Send reset link button text"
+  },
+  "backToLogin": "Quay lại đăng nhập",
+  "@backToLogin": {
+    "description": "Back to login link text"
+  },
+
+  "resetPasswordTitle": "Đặt lại mật khẩu",
+  "@resetPasswordTitle": {
+    "description": "Reset password screen title"
+  },
+  "resetPasswordSubtitle": "Nhập mã được gửi đến {email} và mật khẩu mới của bạn",
+  "@resetPasswordSubtitle": {
+    "description": "Subtitle text on reset password screen",
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "confirmationCode": "Mã xác nhận",
+  "@confirmationCode": {
+    "description": "Confirmation code input field label"
+  },
+  "newPassword": "Mật khẩu mới",
+  "@newPassword": {
+    "description": "New password input field label"
+  },
+  "resetPassword": "Đặt lại mật khẩu",
+  "@resetPassword": {
+    "description": "Reset password button text"
+  },
+  "back": "Quay lại",
+  "@back": {
+    "description": "Back button text"
+  },
+
+  "verifyEmailTitle": "Xác minh email",
+  "@verifyEmailTitle": {
+    "description": "Verify email screen title"
+  },
+  "verifyEmailSubtitle": "Nhập mã được gửi đến {email}",
+  "@verifyEmailSubtitle": {
+    "description": "Subtitle text on verify email screen",
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "verify": "Xác minh",
+  "@verify": {
+    "description": "Verify button text"
+  },
+  "didntReceiveCode": "Không nhận được mã?",
+  "@didntReceiveCode": {
+    "description": "Text prompting to resend code"
+  },
+  "resend": "Gửi lại",
+  "@resend": {
+    "description": "Resend code link text"
+  },
+  "codeSentAgain": "Mã đã được gửi lại",
+  "@codeSentAgain": {
+    "description": "Success message when code is resent"
+  },
+
+  "chooseLanguage": "Chọn ngôn ngữ",
+  "@chooseLanguage": {
+    "description": "Choose language dialog title"
+  },
+  "vietnamese": "Tiếng Việt",
+  "@vietnamese": {
+    "description": "Vietnamese language option"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+
+  "emailRequired": "Email là bắt buộc",
+  "@emailRequired": {
+    "description": "Validation error when email is empty"
+  },
+  "invalidEmail": "Vui lòng nhập email hợp lệ",
+  "@invalidEmail": {
+    "description": "Validation error for invalid email format"
+  },
+  "passwordRequired": "Mật khẩu là bắt buộc",
+  "@passwordRequired": {
+    "description": "Validation error when password is empty"
+  },
+  "passwordTooShort": "Mật khẩu phải có ít nhất 8 ký tự",
+  "@passwordTooShort": {
+    "description": "Validation error for password length"
+  },
+  "passwordUppercase": "Mật khẩu phải chứa ít nhất 1 chữ hoa",
+  "@passwordUppercase": {
+    "description": "Validation error for password uppercase requirement"
+  },
+  "passwordLowercase": "Mật khẩu phải chứa ít nhất 1 chữ thường",
+  "@passwordLowercase": {
+    "description": "Validation error for password lowercase requirement"
+  },
+  "passwordNumber": "Mật khẩu phải chứa ít nhất 1 số",
+  "@passwordNumber": {
+    "description": "Validation error for password number requirement"
+  },
+  "confirmPasswordRequired": "Vui lòng xác nhận mật khẩu",
+  "@confirmPasswordRequired": {
+    "description": "Validation error when confirm password is empty"
+  },
+  "passwordsDoNotMatch": "Mật khẩu không khớp",
+  "@passwordsDoNotMatch": {
+    "description": "Validation error when passwords don't match"
+  },
+  "codeRequired": "Mã là bắt buộc",
+  "@codeRequired": {
+    "description": "Validation error when verification code is empty"
+  },
+  "codeMustBe6Digits": "Mã phải có 6 chữ số",
+  "@codeMustBe6Digits": {
+    "description": "Validation error for code length"
+  },
+  "passwordResetSuccess": "Đặt lại mật khẩu thành công",
+  "@passwordResetSuccess": {
+    "description": "Success message after password reset"
+  },
+  "emailVerifiedSuccessfully": "Xác minh email thành công!",
+  "@emailVerifiedSuccessfully": {
+    "description": "Success message after email verification"
+  }
+}
